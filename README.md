@@ -127,7 +127,7 @@ A) ```<a href = "/test.asp">…</a>```
 
 B) ```<a href = "c:/test.asp">…</a>```
 
-** C) ```<a href = "‥/test.asp">…</a>```**
+**C) ```<a href = "‥/test.asp">…</a>```**
 
 D) ```<a href = "Parent/test.asp">…</a>```
 
@@ -297,3 +297,104 @@ B) ```<HREF>```
 **C) ```<A>```**
 
 D) ```<B>```
+
+
+#### 31.A 文件夹与 B 文件夹是同级文件夹，其中 A 下有 a.htm，B 下有 b.htm 文件，现在我们希望在 a.htm 文件中创建超链接，链接到 b.htm，应该在 a.htm 页面代码中如何描述链接内容？
+
+A) b.htm
+
+B) ././././B/b.htm
+
+**C) ../B/b.htm**
+
+D) ../../b.htm
+
+
+
+#### 32.我们想要在 HTML 文档中加入图像，可以使用哪个标记来达到要求呢？
+
+A) ```<PIC>```
+
+B) ```<PICTURE>```
+
+**C) ```<IMG>```**
+
+D) ```<IMAGE>```
+
+
+#### 33.我们发现为页面中的图像加入超链接后，默认情况下都带有一道黑框，有什么方法可以去掉它呢？
+
+A) bordercolor = "white"
+
+**B) border = "0"**
+
+C) style = "no border"
+
+D) style = "0"
+
+
+#### 34.我们想要将表格中加入的图像充满整个单元格，使用哪种方式可以做到？
+
+A) size = "100"
+
+B) size = "100%"
+
+C) width = "100"
+
+**D) width = "100%"**
+
+
+
+#### 36.我们想要在框架中加入一个叫做 list.htm 的文件，应该在 HTML 中如何描述它？
+
+A) frame page = "list.htm"
+
+B) frame target = "list.htm"
+
+**C) frame src = "list.htm"**
+
+D) frame framepage = "list.htm"
+
+
+#### 37.我们想要在页面中加入一个层，可以使用哪些 HTML 标记来描述它？(选择2项)
+
+A) ```<floor>```
+
+**B) ```<div>```**
+
+**C) ```<span>```**
+
+D) ```<level>```
+
+
+#### 38. 下面语句表述正确的是
+
+**A) marginwidth = 5 表示框架宽度部分边缘所保留的空间**
+
+B) marginwidth = 5 表示框架宽度空间 
+
+C) noresize 是设定不用使用框框的大小
+
+D) noresize 是使用者设定此参数后，可随意地拉动框架改变其大小
+
+
+#### 39. 不是表单提供给用户的输入形式是
+
+A) Text
+
+B) Radio
+
+**C) Type**
+
+D) file
+
+
+#### 40 . 下列哪种 CSS 样式定义的方式拥有最高的优先级？
+
+A) 嵌入 
+
+**B) 行内**
+
+C) 链接
+
+D) 导入
