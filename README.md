@@ -389,7 +389,7 @@ B) Radio
 D) file
 
 
-#### 40 . 下列哪种 CSS 样式定义的方式拥有最高的优先级？
+#### 40. 下列哪种 CSS 样式定义的方式拥有最高的优先级？
 
 A) 嵌入 
 
@@ -398,3 +398,386 @@ A) 嵌入
 C) 链接
 
 D) 导入
+
+
+#### 41. web标准的制定者是？
+
+A) 微软 
+
+**B) 万维网联盟（W3C）**
+
+C) 网景公司（Netscape）
+
+D) SUN公司 
+
+#### 42. 下列的 HTML 中哪个是最大的标题？
+
+A) ```<h6>```
+
+B) ```<head>```
+
+C) ```<heading>``` 
+
+**D) ```<h1>```**
+
+#### 43. 下列的 HTML 中哪个可以插入一条水平线？
+
+A) ```<br>```
+
+**B) ```<hr>```**
+
+C) ```<break>``` 
+
+D) ```<p>```
+
+#### 44. 下列的 HTML 中哪个可以添加背景颜色？
+
+A) ```<body color="yellow">```
+
+B) ```<background>yellow</background>```
+
+**C) ```<body bgcolor="yellow">```** 
+
+D) ```<body backcolor="yellow">```
+
+#### 45. 请选择产生粗体字的 HTML 标签：
+
+A) ```<bold>```
+
+B) ```<bb>```
+
+**C) ```<b>```** 
+
+D) ```<bld>``` 
+
+#### 46. 请选择产生斜体字的 HTML 标签：
+
+**A) ```<i>```**
+
+B) ```<italics>```
+
+C) ```<ii>```
+
+D) ```<it>```
+
+#### 47. 下列的 HTML 中哪个可以产生超链接？
+
+A) ```<a url="http://www.w3schools.com">W3Schools.com</a>```
+
+B) ```<a>http://www.w3schools.com</a>```
+
+**C) ```<a href="http://www.w3schools.com">W3Schools</a>```**
+
+D) ```<a>http://www.w3schools.com</a>```
+
+#### 48. 如何制作电子邮件链接？
+
+A) ```<a href="xxx@yyy">```
+
+B) ```<mail href="xxx@yyy">```
+
+**C) ```<a href="mailto:xxx@yyy">```**
+
+D) ```<mail>xxx@yyy</mail>```
+
+#### 49. 如何在新窗口打开链接？
+
+A) ```<a href="url" new>``` 
+
+**B) ```<a href="url" target="_blank">```** 
+
+C) ```<a href="url" target="new">```
+
+D) ```<a href="url" target="_parent">```
+
+#### 50. 以下选项中，哪个全部都是表格标签？
+
+A) ```<table><head><tfoot>```
+
+**B) ```<table><tr><td>```**
+
+C) ```<table><tr><tt>```
+
+D) ```<thead><body><tr>```
+
+#### 51. 请选择可以使单元格中的内容进行左排列的正确 HTML 标签：
+
+**A) ```<td align="left">```**
+
+B) ```<td valign="left">```
+
+C) ```<td leftalign>```
+
+D) ```<tdleft>``` 
+
+#### 52 . 如何产生带有数字列表符号的列表？
+
+A) ```<ul>```
+
+B) ```<dl>```
+
+**C) ```<ol>```**
+
+D) ```<list>```
+
+#### 53 . 如何产生带有圆点列表符号的列表？
+
+A) ```<dl>``` 
+
+B) ```<list>``` 
+
+C) ```<ol>``` 
+
+**D) ```<ul>```** 
+
+#### 54. 下列的 HTML 中哪个可以产生复选框？
+
+A) ```<input type="check">```
+
+B) ```<checkbox>```
+
+**C) ```<input type="checkbox">```**
+
+D) ```<check>```
+
+#### 55. 下列的 HTML 中哪个可以产生文本框？
+
+A) ```<input type="textfield">```
+
+B) ```<textinput type="text">```
+
+**C) ```<input type="text">```**
+
+D) ```<textfield>```
+
+#### 56. 下列的 HTML 中哪个可以产生下拉列表？
+
+A) ```<list>```
+
+B) ```<input type="list">```
+
+C) ```<input type="dropdown">```
+
+**D) ```<select>```**
+
+#### 57. 下列的 HTML 中哪个可以产生文本区？
+
+A) ```<textarea>```
+
+B) ```<input type="textarea">```
+
+C) ```<input type="textbox">```
+
+**D) ```<textarea></textarea>```**
+
+#### 58. 下列的 HTML 中哪个可以插入图像？
+
+A) ```<img href="image.gif>```
+
+B) ```<image src="image.gif">```
+
+**C) ```<img src="image.gif">```**
+
+D) ```<img>image.gif</img>```
+
+#### 59. 下列的 HTML 中哪个可以插入背景图像？
+
+**A) ```<body background="background.gif">```**
+
+B) ```<background img="background.gif">```
+
+C) ```<img src="background.gif" background>```
+ 
+#### 60. 以下的 HTML 中，哪个是正确引用外部样式表的方法？
+
+A) ```<style src="mystyle.css">```
+
+**B) ```<link rel="stylesheet" type="text/css" href="mystyle.css">```**
+
+C) ```<stylesheet>mystyle.css</stylesheet>```
+
+#### 61. 在 HTML 文档中，引用外部样式表的正确位置是？
+
+A) 文档的末尾
+
+**B) ```<head>```部分**
+
+C) 文档的顶部
+
+D) ```<body>```部分
+
+#### 62. 哪个HTML标签可用来定义内部样式表？
+
+**A) ```<style>```**
+
+B) ```<script>```
+
+C) ```<css>```
+
+#### 63. 哪个 HTML 属性可用来定义内联样式？
+
+A) font 
+
+B) class 
+
+C) styles 
+
+**D) style**
+
+#### 64. 下列哪个选项的 CSS 语法是正确的？
+
+A) body:color=black
+
+B) {body:color=black(body}
+
+**C) body {color: black}**
+
+D) {body;color:black}
+
+#### 65. 如何在 CSS 文件中插入注释？
+
+A) ```// this is a comment```
+
+B) ```// this is a comment //```
+
+**C) ```/* this is a comment */```**
+
+D) ```' this is a comment```
+
+#### 66. CSS 哪个属性可用来改变背景颜色？
+
+A) bgcolor
+
+B) color
+
+C) **background-color**
+
+#### 67. 如何为所有的 ```<h1>``` 元素添加背景颜色？
+
+A) h1.all {background-color:#FFFFFF} 
+
+**B) h1 {background-color:#FFFFFF}**
+
+C) all.h1 {background-color:#FFFFFF} 
+
+#### 68. CSS 如何改变某个元素的文本颜色？
+
+A) text-color: 
+
+**B) color:**
+
+C) fgcolor: 
+
+D) text-color = 
+
+#### 69. 哪个 CSS 属性可控制文本的尺寸？
+
+**A) font-size**
+
+B) text-style
+
+C) font-style
+
+D) text-size
+
+#### 70. 以下的 CSS 中，可使所有 ```<p>``` 元素变为粗体的正确语法是?
+
+A) ```<p style="font-size:bold">```
+
+B) ```<p style="text-size:bold">```
+
+**C) p {font-weight:bold}**
+
+D) p {text-size:bold}
+
+#### 71. 如何显示没有下划线的超链接？
+
+**A) a {text-decoration: none}**
+
+B) a {text-decoration: no underline}
+
+C) a {underline: none}
+
+D) a {decoration: no underline} 
+
+#### 72. 如何使文本以大写字母开头？
+
+**A) text-transform: capitalize**
+
+B) 无法通过CSS来完成
+
+C) text-transform: uppercase
+
+#### 73. css 如何改变元素的字体？
+
+A) font=
+
+B) f:
+
+**C) font-family:**
+
+#### 74. 如何改变元素的左边距？
+
+A) text-indent:
+
+**B) margin-left:**
+
+C) margin: 
+
+D) indent:
+
+#### 75. 如何产生带有正方形的项目的列表？
+
+A) list-type: square
+
+**B) list-style-type: square** 
+
+C) type: square 
+
+D) type: 2 
+
+#### 76 . 我们可以在下列哪个 HTML 元素中放置 javascript 代码？
+
+**A) ```<script>```**
+
+B) ```<javascript>``` 
+
+C) ```<js>``` 
+
+D) ```<scripting>```
+
+#### 77 . 写 "Hello World" 的正确 javascript 语法是？
+
+**A) document.write("Hello World")**
+
+B) "Hello World" 
+
+C) response.write("Hello World") 
+
+D) ("Hello World") 
+
+#### 78. 插入 Javacript 的正确位置是？
+
+A) ```<body>```部分 
+
+B) ```<head>```部分 
+
+**C) ```<body>```部分和```<head>```部分均可**
+
+#### 79. 引用名为 "xxx.js" 的外部脚本的正确语法是？
+
+**A) ```<script src="xxx.js">```**
+
+B) ```<script href="xxx.js">```
+
+C) ```<script name="xxx.js">```
+
+#### 80. 如何在警告框中写入 "Hello World"？
+
+A) ```alertBox="Hello World"```
+
+B) ```msgBox("Hello World")```
+
+**C) ```alert("Hello World")```**
+
+D) ```alertBox("Hello World")```
