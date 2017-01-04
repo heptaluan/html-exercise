@@ -781,3 +781,381 @@ B) ```msgBox("Hello World")```
 **C) ```alert("Hello World")```**
 
 D) ```alertBox("Hello World")```
+
+#### 81. 如何创建函数？
+
+A) function:myFunction() 
+
+**B) function myFunction()**
+
+C) function=myFunction()
+
+#### 82. 如何编写当 i 等于 5 时执行某些语句的条件语句？
+
+**A) if (i==5)**
+
+B) if i=5 then 
+
+C) if i=5 
+
+D) if i==5 then
+
+#### 83. 如何编写当 i 不等于 5 时执行某些语句的条件语句？
+
+A) if =! 5 then 
+
+B) if <>5 
+
+C) if (i <> 5) 
+
+**D) if (i != 5)**
+
+#### 84. for 循环如何开始？
+
+A) for (i <= 5; i++) 
+
+**B) for (i = 0; i <= 5; i++)**
+
+C) for (i = 0; i <= 5) 
+
+D) for i = 1 to 5 
+
+#### 85. 如何在 JavaScript 中添加注释？
+
+A) ```' This is a comment ```
+
+B) ```<!--This is a comment-->```
+
+**C) ```//This is a comment```**
+
+#### 86. 定义 JavaScript 数组的正确方法是？
+
+A) ```var txt = new Array="tim","kim","jim"```
+
+B) ```var txt = new Array(1:"tim",2:"kim",3:"jim")```
+
+**C) ```var txt = new Array("tim","kim","jim")```**
+
+D) ```var txt = new Array:1=("tim")2=("kim")3=("jim")```
+
+#### 87. 如何求得 2 和 4 中最大的数？
+
+A) Math.ceil(2,4) 
+
+**B) Math.max(2,4)**
+
+C) ceil(2,4) 
+
+D) top(2,4) 
+
+#### 88. 打开名为 "window2" 的新窗口的 JavaScript 语法是？
+
+A) ```open.new("http://www.w3schools.com","window2")```
+
+**B) ```window.open("http://www.w3schools.com","window2")```**
+
+C) ```new("http://www.w3schools.com","window2")```
+
+D) ```new.window("http://www.w3schools.com","window2")```
+
+#### 89.. 如何在浏览器的状态栏放入一条消息？
+
+A) ```statusbar = "put your message here"``` 
+
+**B) ```window.status = "put your message here"```**
+
+C) ```window.status("put your message here")```
+
+D) ```status("put your message here")```
+
+
+
+
+
+#### 90. 下列不属于文档对象的方法的是（）
+
+A）createElement
+
+B）getElementById
+
+**C）getElementByName**
+
+D）forms.length
+
+#### 91. 下面这段代码运行的结果（）
+
+```js
+document.writeln("文档最后修改于" + document.lastModified);
+var lastModObj = new Date(document. lastModified);
+alert(lastModObj.getMinutes());
+```
+
+A）弹出一个对象框
+
+B）没有任何输出
+
+**C）在文档中显示文档最后修改的时间**
+
+D）在对话框中显示文档最后修改的时间
+
+#### 92. 下列属性中表示文档中的未访问过的超链接的颜色是哪个（）
+
+**A）linkColor属性**
+
+B）vlinkColor属性
+
+C）alinkColor属性
+
+D）以上都不是
+
+#### 93. 分析下面这段代码运行的结果（）
+
+```js
+with(document){
+	writeln("最后一次修改时间：" + document.lastModified + "<br>");
+	writeln("标题：" + document.title + "<br>");
+	writeln("URL：" + document.URL + "<br>");
+}
+```
+
+A）只输出最后一次修改的时间
+
+B）只输出文档的标题
+
+**C）输出文档的标题、最后一次修改时间和当前的URL**
+
+D）什么也不输出
+
+#### 94. 分析下面这个程序运行的结果（）
+
+```js
+var str="字符串"
+with(document){
+	writeln("<b>您好，</b>");
+	write("欢迎光临本网页！" + "<br>");
+	writeln("<p><b>在js标签之间，");
+	writeln(str + "可以写在这里</b></p>");
+}
+```
+
+A）会有``"<br>"``这样的字符输出
+
+**B）第6行输出字符后会换行**
+
+C）最后页面会出错
+
+D）会有乱码出现
+
+#### 95. 以下是历史对象的属性的是（）
+
+A.Current
+
+**B.Length**
+
+C.href
+
+D.Next
+
+#### 96. 分析下面这两行代码的作用（）
+
+01 ```<a href="javascript:history.back()"></a>```
+
+02 ```<a href="javascript:history.forward()"></a>```
+
+**A）代码第1行的作用相当于后退按钮**
+
+B）代码第2行的作用相当于后退按钮
+
+C）代码第1行的作用相当于前进按钮
+
+D）以上表述不都不正确
+
+#### 97. 通常情况下，一个URL的格式是（）
+
+A）协议//路径名称主机：端口/#哈希标识？搜索条件
+
+B）协议//主机：端口/#哈希标识/路径名称？搜索条件
+
+**C）协议//主机：端口/路径名称？搜索条件**
+
+D）协议//主机：端口？搜索条件/路径名称#哈希标识
+
+
+#### 98. 对 location 对象的 href 属性的叙述错误的是（）
+
+A) 可以获取当前路径
+
+B) 可以改变当前路径
+
+C) 可以用来刷新页面
+
+**D) 是只读属性**
+
+#### 99. 可以使用下列哪种方法来用一个 URL 取代当前窗口的 URL（）
+
+A）load
+
+B）onload
+
+**C）replace**
+
+D）open
+
+#### 100. 下列对表单对象的属性表述不正确的是（）
+
+A）name： 返回表单的名称
+
+B）action： 返回/设定表单的提交地址
+
+**C）target： 返回/设定表单提交内容的编码方式**
+
+D）length： 返回该表单所含元素的数目
+
+#### 101. 对下面这段代码分析不正确的是（）
+
+```js
+funtcion  Submit () {
+	form1.submit();
+	alert("提交成功")
+}
+
+function Reset(){
+	form1.reset();
+}
+```
+A）调用 ```Submit()``` 可以提交表单
+
+B）调用 ```Reset()``` 重置表单
+
+**C）调用 ```Reset()``` 相当于提交按钮**
+
+D）调用 ```Submit()``` 相当于提交按钮
+
+#### 102. 对下面这段代码分析不正确的是（）
+
+```js
+var len = form1.elements.length;
+
+for(var i = 0 ;i < Len; i++){
+	if (form1.elements[i].value.length == 0) {
+		alert("你的资料没有填写完善");
+		return  flase;
+	}
+}
+```
+
+A）代码第1行是取得当前表单元素的个数
+
+**B）代码第1行是取得当前文本表单的个数**
+
+C）这是循环验证表单
+
+D）这段代码可以验证表单中文本框中的值是否为空
+
+#### 103. 对下面这段代码分析您输入的字符数为正确的是（）
+
+```js
+function count () {
+	var len = form1.text.value.length;
+	alert("" + len + "个")
+}
+```
+
+A）代码第 2 行是取得当前文档中文本框的个数
+
+B）代码第 2 行是取得当前文档中表单的个数
+
+C）这段代码有错误
+
+**D）这段代码是统计用户输入文本框中字符个数**
+
+#### 104.下列叙述不正确的是（）
+
+A）document： 最顶层的节点，所有的其他节点都是附属于它的
+
+B）documentTypeDTD： 引用（使用<!DOCTYPE>语法）的对象表现形式
+
+**C）Attr： 代表一对特性名和特性值。这个节点类型能包含子节点**
+
+D）documentFragment： 可以像document一样来保存其他节点
+
+#### 105.下列不属于访问指定节点的方法的是（）
+
+**A） obj.value**
+
+B） getElementByTagName
+
+C） getElementsByName
+
+D） getElementById
+
+
+
+#### 106. 对下列代码分析正确的是（）
+
+```js
+function msg () {
+	var p = document.createElement("p");
+	var Text = document.createTextNode("Hello!");
+	p.appendChild("Text");
+	document.body.appendChild(p);
+}
+```
+
+A） 代码第1行是创建一个```<P>```元素标签
+
+B） 代码第2行是创建一个文本节点
+
+C） ```<P>```是文本节点的子节点
+
+**D） 这代码的作用是创建新的节点**
+
+#### 107. 下列对符号所表示的意义解释错误的是（）
+
+A） ```ˆ```(尖号)：匹配字符串的开头
+
+B） ```$```（美元符号）：匹配字符串的结尾
+
+**C） ```？```（问号）：匹配前面的子表达式一次或多次**
+
+D） ```\```（反斜杠）：对特殊字符的特殊元字符含义进行转义
+
+#### 109. 以下不是 RegExp 对象的实例属性的是（）
+
+A） global 属性
+
+B） lastIndex 属性
+
+C） ignoreCase 属性
+
+**D） multiLine 属性**
+
+#### 110. 下面与 IE 结合对 JavaScript 调试支持比较好的工具是（）
+
+A） 记事本
+
+**B） Microsoft Visual Studio 2005**
+
+C） JSEclipse
+
+D） VC++
+
+#### 111. 在调试前的准备工作下列叙述不对的是（）
+
+A） 在"设置"列表框中找到两个"禁用脚本调试"复选框，将它们前面的钩去掉
+
+B） 如果"禁用脚本调试"复选框，前面的钩不去掉，则不会弹出调试信息
+
+C） "禁用脚本调试"复选框，前面的钩去掉后，当程序出错时会弹出调试信息
+
+**D） "禁用脚本调试"复选框，前面的钩去不去与调试无关**
+
+#### 112. 关于代码优化下列表述不对的是（）
+
+A） JavaScript程序代码编写出来后，主要是交给浏览器去运行
+
+**B） 尽可能使用全局变量，可以使代码简单**
+
+C） 书写风格应遵循"标识符短而含义清晰"、"代码缩进对齐"、"尽可能注释"等原则
+
+D） 在机器上运行的代码总是希望其速度越快越好，阅读维护时其可读性可理解性最好
